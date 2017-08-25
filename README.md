@@ -5,4 +5,6 @@ This is a simple readme file
 
 ADDING MOAR TEXT!!!!
 
-This is bound to cause some trouble
+Just something going on
+
+Updates in stage
